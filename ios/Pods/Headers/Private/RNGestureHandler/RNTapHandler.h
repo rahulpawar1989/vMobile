@@ -1,0 +1,5 @@
+XSym
+0053
+8d9902a3e501c512abef7b4396ee63f8
+../../../RNGestureHandler/ios/Handlers/RNTapHandler.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

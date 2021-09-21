@@ -1,0 +1,5 @@
+XSym
+0059
+bbd364435c3337faf4ab48b5416c44bf
+../../../RNGestureHandler/ios/RNRootViewGestureRecognizer.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

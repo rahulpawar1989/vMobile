@@ -1,0 +1,635 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:1:1-50:12
+INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:1:1-50:12
+INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:1:1-50:12
+INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:1:1-50:12
+MERGED from [:react-native-android-wifi] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-20:12
+MERGED from [:react-native-tcp-socket] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-tcp-socket\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-android-settings-library] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-settings-library\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-webview] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:@react-native-community_async-storage] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-device-info] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-24:12
+MERGED from [:react-native-community-netinfo] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-screens] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-permissions] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-react-native-adapter] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\fed641c7a804932027d4921bb4066890\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\material-1.1.0.aar\583a0246b4e03c4b1acc8ec3c88af8fb\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\17f161eb092090ba0f40d2521027d465\AndroidManifest.xml:17:1-24:12
+MERGED from [:expo-app-loader-provider] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-battery] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-battery\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-error-recovery] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-error-recovery\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-font\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [:expo-sqlite] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-sqlite\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-web-browser] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-web-browser\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\android-jsc-r245459.aar\d946e0cb92ab584f199b6c22dd8444d0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\installreferrer-1.1.2.aar\2df9faaa0008795817f8ba55ca702153\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-iid-17.0.0.aar\27d5838607a42565963f20f9a62ec22a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\4a80f86b914ce038c2e704bda4c65c24\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\1312342dd9336f6f8cedbad260b2715e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\80fee6cdd5f29aa5ae07e64b2538071f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\acccdb62ae346841685bb2507e1e38ba\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-stats-17.0.0.aar\ced1fa054441ed4ad1345371c85f94b7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\76c3d434c759de4857ff52651c8508c2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\d0745fd8ca9f0fc51ca21ab6772544c4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\2bb7417c80708a52163e6ca7eda1a7d6\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\viewpager2-1.0.0.aar\5f8fd2f89b5daf2e5f23be6cb23cf74a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\fragment-1.2.1.aar\25b579bab0fbcea11956f784e0b34e5e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\9a80c366ca04df3726ef5a7646ab8316\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\4d0a371787d7d872e92fe6694848756f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0.aar\69d3143cdc5af0984b1c14747cb307c8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\70d9949bad6eaa61aa0e5a0b46fdbbde\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\transition-1.2.0.aar\cae61aa910fc32ca174e01f963e92d66\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\fresco-2.0.0.aar\de10542088d51ac7ea58d81777bef913\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-2.0.0.aar\717cd237de88c79a6aa32e229d82f1bc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\drawee-2.0.0.aar\2e2c69cc92d9555c342bdcb2269ece8f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\nativeimagefilters-2.0.0.aar\0897a90669560e9052ee1f88b60d40bb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\imagepipeline-2.0.0.aar\661fb54f061b79d1aa6104f1260782c4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\nativeimagetranscoder-2.0.0.aar\433fc9bfd6ce239648e719a4ba948395\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-2.0.0.aar\cda0682ec045d794602fe31ba243754a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\9ebf8250952b301b73748d0d86c29845\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\cbef6af28c78a27830357fc9a3dea2e9\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\e23fb5714d74a97d3bb89c5586012a61\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\cd354a940c30eef07069e27762fdecc9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\6da12eb6f16320fc62553d5469590a2b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\0c2835323e59f44b52ce32dc09ed646c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\63e350d808cbe2bac9443632a8a88589\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\activity-1.1.0.aar\8915072ed5b26b5e2448ba90c022237b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0.aar\503ec723bf78977f67c20884cf6c42c7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\5c8db0868249edfb88f362da3e982736\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c728a5ce5e6c78c92614c1aa430186c7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\54a82489f1f5b576552bc7a8d10000b2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\cc7c05a16c981982f9aa26449700f73b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\8b4ad35c8e43fc327e07cc30e6046e89\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\34378154d4e4c73e12aed637958a6a27\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\1db4138d535d7ab81d3f5396b5a93596\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\e139c8d9168dd639e49428858f373775\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\abf7155994f72742ee93b49756233b96\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-savedstate-2.2.0.aar\dbc30f5b4822a8691326685bbc319af9\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.2.0.aar\8f2b9b07840473dc789fda92f474d87b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\9ec33fbee02c4c65fce5e677d3f23b96\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\d3aca34dbddf9faa5327241b19be66ad\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\d4f5a645c07b63443b69f72d6a3ac4ba\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\9d926f162584e7200f2e230fdd99176b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\5ca140d2d1b77ca9bf0ab48c801eaf6c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.2.0.aar\fa18824996441c1356a68077a59db821\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\core-runtime-2.1.0.aar\e9eea093566d81f2f88b5e28e7784b6b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e4ba7d955dfe4bb2d2b1d1c28b7abc1c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\3a53cd37ecbfe6ac69f5db8ecabfeea3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\54e80c0180e81392fdc1432c8dff4d26\AndroidManifest.xml:17:1-22:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-2.0.0.aar\1a247ae8cdaa877061e8ab7d9e14e762\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:1:1-50:12
+INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:1:1-50:12
+INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:1:1-50:12
+	package
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:2:5-26
+		INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:1:1-50:12
+		INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:1:1-50:12
+		INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:react-native-android-wifi] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-android-wifi] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:expo-file-system] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-iid-17.0.0.aar\27d5838607a42565963f20f9a62ec22a\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-iid-17.0.0.aar\27d5838607a42565963f20f9a62ec22a\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:11:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:16:5-81
+MERGED from [:react-native-android-wifi] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-81
+MERGED from [:react-native-android-wifi] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-81
+MERGED from [:expo-location] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:17:5-79
+MERGED from [:react-native-android-wifi] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-79
+MERGED from [:react-native-android-wifi] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-79
+MERGED from [:expo-location] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CAMERA
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:18:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:19:5-72
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:19:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:20:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:22:5-80
+MERGED from [:expo-file-system] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:22:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:23:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:24:5-81
+MERGED from [:expo-file-system] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:25:5-73
+MERGED from [:react-native-android-wifi] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-73
+MERGED from [:react-native-android-wifi] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-73
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:25:22-70
+application
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:28:5-48:19
+MERGED from [:react-native-webview] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-device-info] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-22:19
+MERGED from [:react-native-device-info] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-22:19
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\fed641c7a804932027d4921bb4066890\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\fed641c7a804932027d4921bb4066890\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\material-1.1.0.aar\583a0246b4e03c4b1acc8ec3c88af8fb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\material-1.1.0.aar\583a0246b4e03c4b1acc8ec3c88af8fb\AndroidManifest.xml:22:5-20
+MERGED from [:expo-file-system] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-19:19
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\installreferrer-1.1.2.aar\2df9faaa0008795817f8ba55ca702153\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\installreferrer-1.1.2.aar\2df9faaa0008795817f8ba55ca702153\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-iid-17.0.0.aar\27d5838607a42565963f20f9a62ec22a\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-iid-17.0.0.aar\27d5838607a42565963f20f9a62ec22a\AndroidManifest.xml:26:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\4a80f86b914ce038c2e704bda4c65c24\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\4a80f86b914ce038c2e704bda4c65c24\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\80fee6cdd5f29aa5ae07e64b2538071f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\80fee6cdd5f29aa5ae07e64b2538071f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\acccdb62ae346841685bb2507e1e38ba\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\acccdb62ae346841685bb2507e1e38ba\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-stats-17.0.0.aar\ced1fa054441ed4ad1345371c85f94b7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-stats-17.0.0.aar\ced1fa054441ed4ad1345371c85f94b7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\76c3d434c759de4857ff52651c8508c2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\76c3d434c759de4857ff52651c8508c2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\d0745fd8ca9f0fc51ca21ab6772544c4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\d0745fd8ca9f0fc51ca21ab6772544c4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\2bb7417c80708a52163e6ca7eda1a7d6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\2bb7417c80708a52163e6ca7eda1a7d6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\9ebf8250952b301b73748d0d86c29845\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\9ebf8250952b301b73748d0d86c29845\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\cbef6af28c78a27830357fc9a3dea2e9\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\cbef6af28c78a27830357fc9a3dea2e9\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\1db4138d535d7ab81d3f5396b5a93596\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\1db4138d535d7ab81d3f5396b5a93596\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\abf7155994f72742ee93b49756233b96\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\abf7155994f72742ee93b49756233b96\AndroidManifest.xml:24:5-25:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\1db4138d535d7ab81d3f5396b5a93596\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:31:7-39
+	android:roundIcon
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:33:7-53
+	android:icon
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:32:7-42
+	android:allowBackup
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:34:7-34
+	android:theme
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:35:7-38
+	android:usesCleartextTraffic
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:29:5-40
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:30:7-38
+activity#com.vmobile.MainActivity
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:36:7-46:18
+	android:screenOrientation
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:40:9-45
+	android:label
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:38:9-41
+	android:windowSoftInputMode
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:41:9-51
+	android:configChanges
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:39:9-79
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:37:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:42:9-45:25
+action#android.intent.action.MAIN
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:43:13-65
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:43:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:44:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:47:7-84
+	android:name
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml:47:17-81
+uses-sdk
+INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-android-wifi] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-android-wifi] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-tcp-socket] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-tcp-socket\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-tcp-socket] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-tcp-socket\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-android-settings-library] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-settings-library\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-android-settings-library] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-settings-library\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_async-storage] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-device-info] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-device-info] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-community-netinfo] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community-netinfo] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\fed641c7a804932027d4921bb4066890\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\fed641c7a804932027d4921bb4066890\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\material-1.1.0.aar\583a0246b4e03c4b1acc8ec3c88af8fb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\material-1.1.0.aar\583a0246b4e03c4b1acc8ec3c88af8fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\17f161eb092090ba0f40d2521027d465\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\17f161eb092090ba0f40d2521027d465\AndroidManifest.xml:20:5-22:41
+MERGED from [:expo-app-loader-provider] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-battery] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-battery\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-battery] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-battery\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-error-recovery\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-error-recovery\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-font\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-font\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-sqlite\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-sqlite\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-web-browser\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-web-browser\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\android-jsc-r245459.aar\d946e0cb92ab584f199b6c22dd8444d0\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\android-jsc-r245459.aar\d946e0cb92ab584f199b6c22dd8444d0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\installreferrer-1.1.2.aar\2df9faaa0008795817f8ba55ca702153\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\installreferrer-1.1.2.aar\2df9faaa0008795817f8ba55ca702153\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-iid-17.0.0.aar\27d5838607a42565963f20f9a62ec22a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-iid-17.0.0.aar\27d5838607a42565963f20f9a62ec22a\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\4a80f86b914ce038c2e704bda4c65c24\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\4a80f86b914ce038c2e704bda4c65c24\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\1312342dd9336f6f8cedbad260b2715e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\1312342dd9336f6f8cedbad260b2715e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\80fee6cdd5f29aa5ae07e64b2538071f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\80fee6cdd5f29aa5ae07e64b2538071f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\acccdb62ae346841685bb2507e1e38ba\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\acccdb62ae346841685bb2507e1e38ba\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-stats-17.0.0.aar\ced1fa054441ed4ad1345371c85f94b7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-stats-17.0.0.aar\ced1fa054441ed4ad1345371c85f94b7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\76c3d434c759de4857ff52651c8508c2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\76c3d434c759de4857ff52651c8508c2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\d0745fd8ca9f0fc51ca21ab6772544c4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\d0745fd8ca9f0fc51ca21ab6772544c4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\2bb7417c80708a52163e6ca7eda1a7d6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\2bb7417c80708a52163e6ca7eda1a7d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\viewpager2-1.0.0.aar\5f8fd2f89b5daf2e5f23be6cb23cf74a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\viewpager2-1.0.0.aar\5f8fd2f89b5daf2e5f23be6cb23cf74a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\fragment-1.2.1.aar\25b579bab0fbcea11956f784e0b34e5e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\fragment-1.2.1.aar\25b579bab0fbcea11956f784e0b34e5e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\9a80c366ca04df3726ef5a7646ab8316\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\9a80c366ca04df3726ef5a7646ab8316\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\4d0a371787d7d872e92fe6694848756f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\4d0a371787d7d872e92fe6694848756f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0.aar\69d3143cdc5af0984b1c14747cb307c8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0.aar\69d3143cdc5af0984b1c14747cb307c8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\70d9949bad6eaa61aa0e5a0b46fdbbde\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\70d9949bad6eaa61aa0e5a0b46fdbbde\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\transition-1.2.0.aar\cae61aa910fc32ca174e01f963e92d66\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\transition-1.2.0.aar\cae61aa910fc32ca174e01f963e92d66\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\fresco-2.0.0.aar\de10542088d51ac7ea58d81777bef913\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\fresco-2.0.0.aar\de10542088d51ac7ea58d81777bef913\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-2.0.0.aar\717cd237de88c79a6aa32e229d82f1bc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-2.0.0.aar\717cd237de88c79a6aa32e229d82f1bc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\drawee-2.0.0.aar\2e2c69cc92d9555c342bdcb2269ece8f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\drawee-2.0.0.aar\2e2c69cc92d9555c342bdcb2269ece8f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\nativeimagefilters-2.0.0.aar\0897a90669560e9052ee1f88b60d40bb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\nativeimagefilters-2.0.0.aar\0897a90669560e9052ee1f88b60d40bb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\imagepipeline-2.0.0.aar\661fb54f061b79d1aa6104f1260782c4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\imagepipeline-2.0.0.aar\661fb54f061b79d1aa6104f1260782c4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\nativeimagetranscoder-2.0.0.aar\433fc9bfd6ce239648e719a4ba948395\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\nativeimagetranscoder-2.0.0.aar\433fc9bfd6ce239648e719a4ba948395\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-2.0.0.aar\cda0682ec045d794602fe31ba243754a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-2.0.0.aar\cda0682ec045d794602fe31ba243754a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\9ebf8250952b301b73748d0d86c29845\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\9ebf8250952b301b73748d0d86c29845\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\cbef6af28c78a27830357fc9a3dea2e9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\cbef6af28c78a27830357fc9a3dea2e9\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\e23fb5714d74a97d3bb89c5586012a61\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\e23fb5714d74a97d3bb89c5586012a61\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\cd354a940c30eef07069e27762fdecc9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\cd354a940c30eef07069e27762fdecc9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\6da12eb6f16320fc62553d5469590a2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\6da12eb6f16320fc62553d5469590a2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\0c2835323e59f44b52ce32dc09ed646c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\0c2835323e59f44b52ce32dc09ed646c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\63e350d808cbe2bac9443632a8a88589\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\63e350d808cbe2bac9443632a8a88589\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\activity-1.1.0.aar\8915072ed5b26b5e2448ba90c022237b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\activity-1.1.0.aar\8915072ed5b26b5e2448ba90c022237b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0.aar\503ec723bf78977f67c20884cf6c42c7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0.aar\503ec723bf78977f67c20884cf6c42c7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\5c8db0868249edfb88f362da3e982736\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\5c8db0868249edfb88f362da3e982736\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c728a5ce5e6c78c92614c1aa430186c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c728a5ce5e6c78c92614c1aa430186c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\54a82489f1f5b576552bc7a8d10000b2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\54a82489f1f5b576552bc7a8d10000b2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\cc7c05a16c981982f9aa26449700f73b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\cc7c05a16c981982f9aa26449700f73b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\8b4ad35c8e43fc327e07cc30e6046e89\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\8b4ad35c8e43fc327e07cc30e6046e89\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\34378154d4e4c73e12aed637958a6a27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\34378154d4e4c73e12aed637958a6a27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\1db4138d535d7ab81d3f5396b5a93596\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\1db4138d535d7ab81d3f5396b5a93596\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\e139c8d9168dd639e49428858f373775\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\e139c8d9168dd639e49428858f373775\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\abf7155994f72742ee93b49756233b96\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\abf7155994f72742ee93b49756233b96\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-savedstate-2.2.0.aar\dbc30f5b4822a8691326685bbc319af9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-savedstate-2.2.0.aar\dbc30f5b4822a8691326685bbc319af9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.2.0.aar\8f2b9b07840473dc789fda92f474d87b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.2.0.aar\8f2b9b07840473dc789fda92f474d87b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\9ec33fbee02c4c65fce5e677d3f23b96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\9ec33fbee02c4c65fce5e677d3f23b96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\d3aca34dbddf9faa5327241b19be66ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\d3aca34dbddf9faa5327241b19be66ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\d4f5a645c07b63443b69f72d6a3ac4ba\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\d4f5a645c07b63443b69f72d6a3ac4ba\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\9d926f162584e7200f2e230fdd99176b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\9d926f162584e7200f2e230fdd99176b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\5ca140d2d1b77ca9bf0ab48c801eaf6c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\5ca140d2d1b77ca9bf0ab48c801eaf6c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.2.0.aar\fa18824996441c1356a68077a59db821\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.2.0.aar\fa18824996441c1356a68077a59db821\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\core-runtime-2.1.0.aar\e9eea093566d81f2f88b5e28e7784b6b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\core-runtime-2.1.0.aar\e9eea093566d81f2f88b5e28e7784b6b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e4ba7d955dfe4bb2d2b1d1c28b7abc1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e4ba7d955dfe4bb2d2b1d1c28b7abc1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\3a53cd37ecbfe6ac69f5db8ecabfeea3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\3a53cd37ecbfe6ac69f5db8ecabfeea3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\54e80c0180e81392fdc1432c8dff4d26\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\54e80c0180e81392fdc1432c8dff4d26\AndroidManifest.xml:20:5-44
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-2.0.0.aar\1a247ae8cdaa877061e8ab7d9e14e762\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-2.0.0.aar\1a247ae8cdaa877061e8ab7d9e14e762\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [:react-native-android-wifi] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from [:react-native-android-wifi] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:react-native-android-wifi] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-76
+MERGED from [:react-native-community-netinfo] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-76
+MERGED from [:react-native-community-netinfo] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [:react-native-android-wifi] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [:react-native-android-wifi] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-79
+MERGED from [:react-native-tcp-socket] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-tcp-socket\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-79
+MERGED from [:react-native-tcp-socket] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-tcp-socket\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:react-native-android-wifi] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-android-wifi] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-79
+MERGED from [:react-native-community-netinfo] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [:react-native-community-netinfo] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:13:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [:react-native-android-wifi] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-76
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-67
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-21:20
+	android:enabled
+		ADDED from [:react-native-device-info] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-35
+	android:exported
+		ADDED from [:react-native-device-info] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-36
+	tools:ignore
+		ADDED from [:react-native-device-info] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from [:react-native-device-info] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-70
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-20:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-79
+	android:name
+		ADDED from [:react-native-device-info] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:25-76
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-74
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] D:\GL Office\12-12-2020\vMobile-react-project_github_17-08-2021\vMobile-react-project\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-78
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\installreferrer-1.1.2.aar\2df9faaa0008795817f8ba55ca702153\AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\installreferrer-1.1.2.aar\2df9faaa0008795817f8ba55ca702153\AndroidManifest.xml:9:22-107
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-iid-17.0.0.aar\27d5838607a42565963f20f9a62ec22a\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-iid-17.0.0.aar\27d5838607a42565963f20f9a62ec22a\AndroidManifest.xml:23:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\acccdb62ae346841685bb2507e1e38ba\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\acccdb62ae346841685bb2507e1e38ba\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\acccdb62ae346841685bb2507e1e38ba\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\acccdb62ae346841685bb2507e1e38ba\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\2bb7417c80708a52163e6ca7eda1a7d6\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\2bb7417c80708a52163e6ca7eda1a7d6\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\2bb7417c80708a52163e6ca7eda1a7d6\AndroidManifest.xml:24:13-58
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\rahul\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\76286c3e5628a2fe9bdd18fe4a465c4a\AndroidManifest.xml:26:13-120

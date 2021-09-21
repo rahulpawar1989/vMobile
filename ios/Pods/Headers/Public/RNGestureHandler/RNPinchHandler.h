@@ -1,0 +1,5 @@
+XSym
+0055
+364d1936132f89a7f1af627aa9b974c2
+../../../RNGestureHandler/ios/Handlers/RNPinchHandler.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

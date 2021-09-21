@@ -1,0 +1,5 @@
+XSym
+0058
+ae499c22762e5d1a65ce60881e8f89d9
+../../../RNGestureHandler/ios/Handlers/RNRotationHandler.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

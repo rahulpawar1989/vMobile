@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/apple/Documents/03-02-2020/vMobile-react-project/ios/vMobile/main.m \
+  /Users/apple/Documents/03-02-2020/vMobile-react-project/ios/vMobile/AppDelegate.h \
+  /Users/apple/Documents/03-02-2020/vMobile-react-project/ios/Pods/Headers/Public/UMReactNativeAdapter/UMModuleRegistryAdapter.h \
+  /Users/apple/Documents/03-02-2020/vMobile-react-project/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/apple/Documents/03-02-2020/vMobile-react-project/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/apple/Documents/03-02-2020/vMobile-react-project/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/apple/Documents/03-02-2020/vMobile-react-project/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/apple/Documents/03-02-2020/vMobile-react-project/ios/Pods/Headers/Public/UMCore/UMModuleRegistryProvider.h \
+  /Users/apple/Documents/03-02-2020/vMobile-react-project/ios/Pods/Headers/Public/UMCore/UMModuleRegistry.h \
+  /Users/apple/Documents/03-02-2020/vMobile-react-project/ios/Pods/Headers/Public/UMCore/UMInternalModule.h \
+  /Users/apple/Documents/03-02-2020/vMobile-react-project/ios/Pods/Headers/Public/UMCore/UMDefines.h \
+  /Users/apple/Documents/03-02-2020/vMobile-react-project/ios/Pods/Headers/Public/UMCore/UMExportedModule.h \
+  /Users/apple/Documents/03-02-2020/vMobile-react-project/ios/Pods/Headers/Public/UMCore/UMViewManager.h \
+  /Users/apple/Documents/03-02-2020/vMobile-react-project/ios/Pods/Headers/Public/UMCore/UMModuleRegistryDelegate.h \
+  /Users/apple/Documents/03-02-2020/vMobile-react-project/ios/Pods/Headers/Public/UMCore/UMSingletonModule.h \
+  /Users/apple/Documents/03-02-2020/vMobile-react-project/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/apple/Documents/03-02-2020/vMobile-react-project/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/apple/Documents/03-02-2020/vMobile-react-project/ios/Pods/Headers/Public/UMCore/UMAppDelegateWrapper.h

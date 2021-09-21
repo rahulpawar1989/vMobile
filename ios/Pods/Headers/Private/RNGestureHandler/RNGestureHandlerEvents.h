@@ -1,0 +1,5 @@
+XSym
+0054
+e5e52bb47d3715f8806e72e6df9bdc99
+../../../RNGestureHandler/ios/RNGestureHandlerEvents.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

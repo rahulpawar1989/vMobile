@@ -1,0 +1,5 @@
+XSym
+0057
+2302bdaa10e62421e387c78879e58dd3
+../../../RNGestureHandler/ios/RNGestureHandlerDirection.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

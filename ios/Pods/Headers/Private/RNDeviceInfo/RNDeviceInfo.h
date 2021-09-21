@@ -1,0 +1,5 @@
+XSym
+0084
+af1ab1092ddb25ee94e7ef2f3ec4f666
+../../../../../node_modules/react-native-device-info/ios/RNDeviceInfo/RNDeviceInfo.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

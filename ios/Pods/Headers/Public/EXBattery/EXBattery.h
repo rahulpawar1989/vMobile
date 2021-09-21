@@ -1,0 +1,5 @@
+XSym
+0066
+e8c6a3a303e83dfa381a6874191fafe5
+../../../../../node_modules/expo-battery/ios/EXBattery/EXBattery.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

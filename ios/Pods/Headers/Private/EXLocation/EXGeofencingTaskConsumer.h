@@ -1,0 +1,5 @@
+XSym
+0097
+0ea9d03da0bb140b14e4bb1f29d7c949
+../../../../../node_modules/expo-location/ios/EXLocation/TaskConsumers/EXGeofencingTaskConsumer.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

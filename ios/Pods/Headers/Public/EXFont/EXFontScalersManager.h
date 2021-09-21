@@ -1,0 +1,5 @@
+XSym
+0082
+4d1bcc9c2c65f633941e47e50c5b43f8
+../../../../../node_modules/expo-font/ios/EXFont/Singletons/EXFontScalersManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

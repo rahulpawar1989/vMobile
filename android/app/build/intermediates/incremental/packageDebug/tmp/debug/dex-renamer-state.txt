@@ -1,0 +1,7 @@
+#Tue Sep 21 10:31:54 IST 2021
+base.0=D\:\\GL Office\\12-12-2020\\vMobile-react-project_github_17-08-2021\\vMobile-react-project\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\GL Office\\12-12-2020\\vMobile-react-project_github_17-08-2021\\vMobile-react-project\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
