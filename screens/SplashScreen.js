@@ -4,7 +4,7 @@ import { ImageBackground, StyleSheet, Text, View, TextInput, ActivityIndicator, 
 import AsyncStorage from '@react-native-community/async-storage';
 import Toast from 'react-native-simple-toast';
 import * as Location from 'expo-location';
-import * as Permissions from 'expo-permissions';
+//import * as Permissions from 'expo-permissions';
 import Constants from 'expo-constants';
 import * as Battery from 'expo-battery';
 import NetInfo from '@react-native-community/netinfo';
@@ -43,13 +43,12 @@ export default class SplashScreen extends Component {
     }
   }
   _getLocationAsync = async (showToast) => {
-    let { status } = await Permissions.askAsync(Permissions.LOCATION);
+    let { status } = await Location.requestForegroundPermissionsAsync();
     if (status !== 'granted') {
       this._isMounted && this.setState({
         errorMessage: 'Permission to access location was denied',
       });
     }
-
     let location = await Location.getCurrentPositionAsync({});
     this._isMounted && this.setState({
       latitude: location.coords.latitude,

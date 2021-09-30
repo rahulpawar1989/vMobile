@@ -3,7 +3,7 @@ import { StyleSheet, View, Dimensions, Text, TextInput, Button } from 'react-nat
 import AsyncStorage from '@react-native-community/async-storage';
 import Toast from 'react-native-simple-toast';
 import * as Location from 'expo-location';
-import * as Permissions from 'expo-permissions';
+//import * as Permissions from 'expo-permissions';
 import Constants from 'expo-constants';
 import * as Battery from 'expo-battery';
 import NetInfo from '@react-native-community/netinfo';
@@ -59,7 +59,7 @@ export default class HomeScreen extends Component {
     }
   }
   _getLocationAsync = async (showToast) => {
-    let { status } = await Permissions.askAsync(Permissions.LOCATION);
+    let { status } = await Location.requestForegroundPermissionsAsync();
     if (status !== 'granted') {
       this._isMounted && this.setState({
         errorMessage: 'Permission to access location was denied',
@@ -160,7 +160,6 @@ export default class HomeScreen extends Component {
       "GPSLat": this.state.latitude,
       "GPSLng": this.state.longitude
     };
-
     const response = fetch(
       "http://" + mConsoleIP + "/api/vmappregister", {
       method: 'POST',
@@ -191,7 +190,6 @@ export default class HomeScreen extends Component {
                 });
               }
               this.setAppStatus("Accepted");
-
               this.props.navigation.navigate('BottomTabNavigatorScreen');
 
             } else if (response.StatusId === 3) {
