@@ -65,7 +65,7 @@ function MyTabs() {
       <Tab.Screen name="Operation" component={OperationScreen} options={{
         tabBarLabel: 'Operation',
         tabBarIcon: ({ color, size }) => (
-          <MaterialCommunityIcons name="settings" color={color} size={size} />
+          <MaterialCommunityIcons name="cellphone-settings" color={color} size={size} />
         ),
       }}
       />

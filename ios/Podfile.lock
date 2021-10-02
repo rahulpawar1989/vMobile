@@ -235,7 +235,7 @@ PODS:
     - React-jsi (= 0.65.1)
     - React-perflogger (= 0.65.1)
   - React-jsinspector (0.65.1)
-  - react-native-netinfo (5.9.9):
+  - react-native-netinfo (5.9.10):
     - React-Core
   - react-native-safe-area-context (0.6.4):
     - React
@@ -560,7 +560,7 @@ SPEC CHECKSUMS:
   React-jsi: 12913c841713a15f64eabf5c9ad98592c0ec5940
   React-jsiexecutor: 43f2542aed3c26e42175b339f8d37fe3dd683765
   React-jsinspector: 41e58e5b8e3e0bf061fdf725b03f2144014a8fb0
-  react-native-netinfo: 77d133105df525d4a11f10fcaa8d0b8883ea6429
+  react-native-netinfo: 52cf0ee8342548a485e28f4b09e56b477567244d
   react-native-safe-area-context: 042dfc9d4db17196841df962ba9497f6e7a5bd02
   react-native-simple-toast: b986e6c1befdc211af3df1bae293278a44e32990
   react-native-tcp-socket: d05b8acbf1c045ff5b6a92ec6ca91960c94387d1
