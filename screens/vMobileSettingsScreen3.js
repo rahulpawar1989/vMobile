@@ -6,6 +6,7 @@ import { client } from './echo';
 import { PermissionsAndroid } from 'react-native';
 import wifi from 'react-native-android-wifi';
 import PopupDialog from 'react-native-popup-dialog';
+import { Platform } from 'react-native';
 
 type Props = {}
 
@@ -29,20 +30,24 @@ export default class vMobileSettingsScreen3 extends Component<Props> {
       StatusId: false,
     }
   }
-
-  componentDidMount() {
+componentDidMount()
+{
+  //Call this function for Android only since the permssions are required for Android
+  if (Platform.OS === 'android') {
     this.FunctionToGetLocationPermission();
+    }
 
-
-
+    // Set initial loader for iOS as false 
+    if (Platform.OS === 'ios') {
+      this.setState({
+        isLoading: false,
+      });
+    }
     client.on('data', (data) => {
       Toast.show('Client received: ' + data)
 
     });
-
-
-
-  }
+}
 
   async FunctionToGetLocationPermission() {
     const granted = await PermissionsAndroid.request(
@@ -145,11 +150,19 @@ export default class vMobileSettingsScreen3 extends Component<Props> {
         </View>
 
         <View style={{ alignItems: 'center', justifyContent: 'center', marginTop: 7, marginLeft: 5 }}>
-          <Text style={styles.titleText}>
+          {/* Change text based on iOS/Android since there is no list on iOS */}
+        { (Platform.OS === 'android') &&  <Text style={styles.titleText}>
             Step 3: Select only 2.4GHz WiFi network and enter Password. On pressing OK please re-connect with vMobile unit using appropriate vMobile network.
           </Text>
+        }
+        { (Platform.OS === 'ios') &&  <Text style={styles.titleText}>
+            Step 3: Enter WiFi network name and enter Password. On pressing Next please re-connect with vMobile unit using appropriate vMobile network.
+          </Text>
+        }
         </View>
 
+        {/* List if available only for Android */}
+        { (Platform.OS === 'android') && 
         <View style={{ alignItems: 'center', justifyContent: 'center', marginTop: 7 }}>
           <Text style={{
             fontSize: 15,
@@ -158,7 +171,9 @@ export default class vMobileSettingsScreen3 extends Component<Props> {
             Available Networks
           </Text>
         </View>
-
+        }
+        {/* List will be there only for Android */}
+        { (Platform.OS === 'android') && 
         <ScrollView persistentScrollbar={true} style={{ flex: 1 }} contentContainerStyle={{ flexGrow: 1, }}>
           <FlatList
 
@@ -185,6 +200,38 @@ export default class vMobileSettingsScreen3 extends Component<Props> {
 
           />
         </ScrollView>
+        }
+
+       {/* Display wifi username and password UI for iOS on screen */}
+        { (Platform.OS === 'ios') && 
+        <View style={styles.dialogContentView}>
+
+        <View style={styles.dialogbox_tittleContainer}>
+          <Text style={styles.dialogbox_titleText}>
+            WiFi Details
+          </Text>
+        </View>
+
+
+        <View style={styles.container}>
+
+          <TextInput
+            value={this.state.wiFi_UserName}
+            onChangeText={(wiFi_UserName) => this.setState({ wiFi_UserName })}
+            placeholder="WiFiname"
+            style={styles.input}
+          />
+          <TextInput
+            value={this.state.wiFi_Password}
+            onChangeText={(wiFi_Password) => this.setState({ wiFi_Password })}
+            placeholder="Enter Password"
+            secureTextEntry={true}
+            style={styles.input}
+          />
+
+        </View>
+        </View>
+              }
 
         <PopupDialog
           ref={popupDialog => {
@@ -265,6 +312,8 @@ export default class vMobileSettingsScreen3 extends Component<Props> {
                 }}
               />
             </View>
+            
+            { (Platform.OS === 'android') && 
             <View style={styles.button_1}>
               <Button
                 title="Add WiFi"
@@ -278,6 +327,8 @@ export default class vMobileSettingsScreen3 extends Component<Props> {
                 }}
               />
             </View>
+            }
+
             <View style={styles.button_1}>
               <Button
                 title="Next"
@@ -299,7 +350,7 @@ const styles = StyleSheet.create({
 
   dialog_button_1: {
     width: '30%',
-    height: 30,
+    height: 50,
     margin: 8,
   },
   text3: {
@@ -350,7 +401,7 @@ const styles = StyleSheet.create({
 
   button_1: {
     width: '30%',
-    height: 30,
+    height: 50,
   },
 
   container: {
